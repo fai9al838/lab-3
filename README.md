@@ -1,11 +1,4 @@
-# Week 02 Lab — Intelligent Agents
+Lab3_Faisal Al sahli
+Faisal Al sahjli s24109633
 
-**Aligned lecture:** 03_Lectures/Week_02_Intelligent_Agents
-**Reading:** Chapter 2
-**CS50 project reference:** https://cs50.harvard.edu/ai/weeks/0/
-
-`handout/` student-facing instructions · `starter_code/` scaffold given to students · `solution/` instructor solution (do not distribute)
-
-## Lab objectives
-1.
-2.
+Run Knights & Knaves: put knights.py and logic.py in the same folder, then run python3 knights.py.
